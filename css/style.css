@@ -1,0 +1,32 @@
+.container{
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+button{
+    padding: 18px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    margin-left: 200px;
+    color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    box-shadow: gray 1px 1px 10px 1px;
+    cursor: pointer;
+
+}
+button:hover{
+    background: #22bbea;
+}
+#result{
+    width: 50%;
+    height: 200px;
+    background: teal;
+    display: flex;
+    margin: 10px;
+    margin: 0 auto;
+}
+img{
+    box-shadow: gray 1px 1px 10px 1px; 
+}
